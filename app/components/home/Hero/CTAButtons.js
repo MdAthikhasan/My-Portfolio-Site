@@ -37,7 +37,7 @@ export const CTAButtons = () => {
         whileTap={{ scale: 0.95 }}
       >
         <a
-          href="/resume.pdf"
+          href="https://docs.google.com/document/d/1YtwU4UEfWDPJr4FtslwC5oWeYZHQbWw5P6BKV4Qi_Ls/export?format=pdf"
           target="_blank"
           rel="noopener noreferrer"
           className="inline-flex items-center px-6 py-3 rounded-xl bg-white/10 
