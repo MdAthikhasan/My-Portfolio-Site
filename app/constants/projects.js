@@ -62,4 +62,26 @@ export const projects = [
     liveUrl: "https://mamu-seven.vercel.app/",
     githubUrl: "https://github.com/MdAthikhasan/mamu",
   },
+
+  {
+    id: 6,
+    title: "Dua page",
+    description: "A dua page where practical muslim can read dua.",
+    category: "frontend",
+    image: "https://imgur.com/a/3DVee22",
+
+    technology: ["Next js", "Tailwind CSS"],
+    liveLink: "https://assignment-44f2.vercel.app/",
+    codeLink: "https://github.com/MdAthikhasan/assignment",
+  },
+  {
+    id: 7,
+    title: "Roadmap app",
+    description: "Modern roadmap-app for knowing user feedback.",
+    category: "frontend",
+    image: "https://imgur.com/a/2Pt1E48",
+    technology: ["React", "Tailwind CSS"],
+    liveLink: "https://roadmapapp-front-end.vercel.app/",
+    codeLink: "https://github.com/MdAthikhasan/roadmapapp-front-end",
+  },
 ];
