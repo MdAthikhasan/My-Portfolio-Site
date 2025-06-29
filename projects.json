@@ -43,5 +43,23 @@
     "technology": ["React", "Tailwind CSS"],
     "liveLink": "https://task-management-jet.vercel.app/",
     "codeLink": "https://github.com/MdAthikhasan/Task-management"
+  },
+  {
+    "id": 6,
+    "name": "Dua page",
+    "img": "https://imgur.com/a/3DVee22",
+    "description": "A dua page where practical muslim can read dua.",
+    "technology": ["Next js", "Tailwind CSS"],
+    "liveLink": "https://assignment-44f2.vercel.app/",
+    "codeLink": "https://github.com/MdAthikhasan/assignment"
+  },
+  {
+    "id": 7,
+    "name": "Roadmap app",
+    "img": "https://imgur.com/a/2Pt1E48",
+    "description": "Modern roadmap-app for knowing user feedback.",
+    "technology": ["React", "Tailwind CSS"],
+    "liveLink": "https://roadmapapp-front-end.vercel.app/",
+    "codeLink": "https://github.com/MdAthikhasan/roadmapapp-front-end"
   }
 ]
