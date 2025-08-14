@@ -1,10 +1,10 @@
 "use client";
+import { images } from "@/app/constants/images";
 import { motion } from "framer-motion";
 import Image from "next/image";
+import Container from "../../ui/Container";
 import { CTAButtons } from "./CTAButtons";
 import { SocialLinks } from "./SocialLinks";
-import Container from "../../ui/Container";
-import { images } from "@/app/constants/images";
 
 const Hero = () => {
   return (
@@ -46,6 +46,14 @@ const Hero = () => {
                 className="block mt-2 text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-pink-400"
               >
                 Front-end Developer
+              </motion.span>
+              <motion.span
+                initial={{ opacity: 0, y: 20 }}
+                animate={{ opacity: 1, y: 0 }}
+                transition={{ delay: 0.5 }}
+                className="text-lg font-black md:text-xl text-white mb-8 leading-relaxed max-w-xl"
+              >
+                MERN & Wordpress
               </motion.span>
             </h1>
 

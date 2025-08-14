@@ -33,7 +33,7 @@ export const projects = [
     title: "Smart Invoice generator",
     description: "Generate professional invoices easily",
     category: "web",
-    image: "https://ibb.co.com/JWcx798h",
+    image: "https://i.postimg.cc/yNHvr4M7/invoice.png",
     technologies: ["React.js", "Tailwind CSS"],
     liveUrl: "https://smart-invoice-generator-tau.vercel.app/",
     githubUrl: "https://github.com/MdAthikhasan/smart-invoice-generator",
