@@ -94,16 +94,24 @@ const Hero = () => {
             >
               <p className="text-sm text-white/40 mb-4">Tech Stack</p>
               <div className="flex flex-wrap gap-4">
-                {["React", "Next.js", "Node.js", "TypeScript", "MongoDB"].map(
-                  (tech, index) => (
-                    <span
-                      key={tech}
-                      className="px-4 py-2 rounded-lg bg-white/5 text-white/60 text-sm border border-white/10 backdrop-blur-xl"
-                    >
-                      {tech}
-                    </span>
-                  )
-                )}
+                {[
+                  "React",
+                  "Next.js",
+                  "Express",
+                  "MongoDB",
+                  "PHP",
+                  "WordPress",
+                  "Theme Development",
+                  "Customization",
+                  "Elementor",
+                ].map((tech, index) => (
+                  <span
+                    key={tech}
+                    className="px-4 py-2 rounded-lg bg-white/5 text-white/60 text-sm border border-white/10 backdrop-blur-xl"
+                  >
+                    {tech}
+                  </span>
+                ))}
               </div>
             </motion.div>
           </motion.div>

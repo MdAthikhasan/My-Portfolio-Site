@@ -22,14 +22,14 @@ export const skillsData = [
     ],
   },
   {
-    title: "Tools",
-    icon: "/icons/skills/tools.svg",
+    title: "WordPress",
+    icon: "/icons/skills/wordpress.svg",
     color: "#F472B6", // pink
     skills: [
-      { name: "Git" },
-      { name: "Github" },
-      { name: "Auth" },
-      { name: "Firebase" },
+      { name: "Theme Development" },
+      { name: "Theme Customization" },
+      { name: "Figma to WordPress" },
+      { name: "Elementor" },
     ],
   },
   {

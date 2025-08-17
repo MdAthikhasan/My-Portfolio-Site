@@ -40,7 +40,7 @@ const AuthorProfile = () => (
     </p>
     <div className="flex gap-3">
       <a
-        href="https://github.com/jihad-hossain1"
+        href="https://github.com/MdAthikHasan"
         target="_blank"
         rel="noopener noreferrer"
         className="p-2 rounded-lg bg-white/5 hover:bg-white/10 transition-colors"
