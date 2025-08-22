@@ -132,4 +132,14 @@ export const projects = [
     technologies: ["Custom Theme", "PHP", " WordPress"],
     liveUrl: "https://dev-my-custom-theme.pantheonsite.io/",
   },
+  {
+    id: 12,
+    title: "E-commerce Website",
+    description: "A modern e-commerce platform for online shopping.",
+    category: "web",
+    stack: "WordPress",
+    image: "https://i.postimg.cc/KY7XwPV9/woodmart-shop.png",
+    technologies: ["Woodmart Theme", "Elementor", " WordPress"],
+    liveUrl: "https://dev-woodmart-newsite.pantheonsite.io/",
+  },
 ];
