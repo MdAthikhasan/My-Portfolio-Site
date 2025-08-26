@@ -114,6 +114,16 @@ export const projects = [
   },
   {
     id: 10,
+    title: "Blog website",
+    description: "A blog website for sharing articles and insights.",
+    category: "web",
+    stack: "WordPress",
+    image: "https://i.postimg.cc/qqrn1Fr6/businessly.png",
+    technologies: ["Custom Theme", "PHP", " WordPress"],
+    liveUrl: "https://dev-my-custom-theme.pantheonsite.io/",
+  },
+  {
+    id: 11,
     title: "Portfolio Website",
     description: "A personal portfolio to showcase  works.",
     category: "web",
@@ -123,7 +133,7 @@ export const projects = [
     liveUrl: "https://dev-raku-editz.pantheonsite.io/",
   },
   {
-    id: 11,
+    id: 12,
     title: "E-commerce Website",
     description: "A modern e-commerce platform for online shopping.",
     category: "web",
