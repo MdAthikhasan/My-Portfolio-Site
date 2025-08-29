@@ -124,6 +124,16 @@ export const projects = [
   },
   {
     id: 11,
+    title: "Learning Management website",
+    description: "A learning management system for online courses.",
+    category: "web",
+    stack: "WordPress",
+    image: "https://i.postimg.cc/mg9q01ps/education-photo.png",
+    technologies: ["Wordpress", "Elementor", " Tutor LMS"],
+    liveUrl: "https://dev-learning-management-web.pantheonsite.io/",
+  },
+  {
+    id: 12,
     title: "Portfolio Website",
     description: "A personal portfolio to showcase  works.",
     category: "web",
@@ -133,7 +143,7 @@ export const projects = [
     liveUrl: "https://dev-raku-editz.pantheonsite.io/",
   },
   {
-    id: 12,
+    id: 13,
     title: "E-commerce Website",
     description: "A modern e-commerce platform for online shopping.",
     category: "web",
